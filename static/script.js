@@ -185,7 +185,7 @@ async function compute() {
 
         // Trace path from start following policy arrows until reaching end
         const P = data.p_matrix
-        const startPos = data.start
+        const startPos = start
         const endPos = data.end
         const path = []
         if (startPos && P && Array.isArray(P)) {
