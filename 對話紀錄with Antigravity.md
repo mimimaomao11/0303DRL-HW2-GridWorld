@@ -142,3 +142,7 @@ HW2/
 | 行為空間 | ↑ ↓ ← →（tie-break: 上>下>左>右） |
 | 終點 V(s) | 10.00 |
 | 障礙物 V(s) | 0.00 |
+
+
+## 對話紀錄with claude
+https://claude.ai/share/01cccd02-3868-4c9e-801e-5ec5dcee16c7
