@@ -2,7 +2,7 @@
 
 > **Course:** Deep Reinforcement Learning — HW2  
 > **Tech Stack:** Flask · Python · Vanilla JS · HTML/CSS  
-> **Demo:** https://0303drl-hw2-gridworld-production.up.railway.app/
+> **Demo:** https://zero303drl-hw2-gridworld.onrender.com/
 
 ---
 
