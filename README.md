@@ -1,7 +1,6 @@
 # 🌐 GridWorld — Value Iteration Visualizer
 
 > **Course:** Deep Reinforcement Learning — HW2  
-> **Author:** wawa8  
 > **Tech Stack:** Flask · Python · Vanilla JS · HTML/CSS  
 > **Demo:** https://0303drl-hw2-gridworld-production.up.railway.app/
 
